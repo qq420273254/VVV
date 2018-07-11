@@ -1,0 +1,7 @@
+import urllib
+import urllib2
+ 
+#values = {"username":"420com","password":"2"}
+#data = urllib.urlencode(values) 
+url = "https://youpin.mi.com/"
+us
